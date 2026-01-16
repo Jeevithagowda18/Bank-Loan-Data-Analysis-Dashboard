@@ -1,5 +1,5 @@
 📊 Bank Loan Analysis – Power BI Project
-🔍 Project Overview (Version 1 – Professional & Recruiter Friendly)
+🔍 Project Overview
 
 This Power BI project focuses on analyzing bank loan data to uncover key insights related 
 to loan performance, borrower behavior, and lending trends. The project is designed to support
