@@ -1,14 +1,13 @@
 📊 Bank Loan Analysis – Power BI Project
 🔍 Project Overview
-
 This Power BI project focuses on analyzing bank loan data to uncover key insights related 
 to loan performance, borrower behavior, and lending trends. The project is designed to support
 data-driven decision-making by transforming raw loan data into interactive dashboards and actionable insights.
 
-
 The analysis is structured across three dashboards: Summary, Overview, and Details, each serving a distinct analytical purpose.
 
-📌 Dashboard 1: Summary – KPI Performance Analysis
+📌 Dashboard 1: 
+Summary – KPI Performance Analysis
 Key Metrics Tracked:
 
 Total Loan Applications: Overall count of loan applications with Month-to-Date (MTD) and Month-over-Month (MoM) comparisons.
@@ -23,7 +22,8 @@ A consolidated view of loan performance categorized by Loan Status, displaying m
 volume, funded amount, repayments received, average interest rate, and DTI.
 
 
-📊 Dashboard 2: Overview – Trend & Distribution Analysis
+📌 Dashboard 2: 
+Overview – Trend & Distribution Analysis
 This dashboard provides a macro-level view of lending operations using multiple visualizations:
 Monthly Loan Trends (Line Chart): Highlights seasonal patterns and long-term trends in loan issuance.
 State-wise Loan Distribution (Filled Map): Identifies high-lending regions and regional disparities.
@@ -33,12 +33,13 @@ Loan Purpose Analysis (Bar Chart): Breaks down loans by stated purpose to identi
 Home Ownership Analysis (Tree Map): Shows the impact of home ownership status on loan applications and disbursement.
 
 
-📋 Dashboard 3: Details – Granular Loan Insights
+📌 Dashboard 3: 
+Details – Granular Loan Insights
 Objective:
 The Details Dashboard enables deep-dive analysis of individual loans, borrower profiles, and repayment metrics.
 It allows users to filter and explore data efficiently, supporting risk assessment and portfolio monitoring.
 
-Dataset Includes:
+📋Dataset Includes:
 Loan ID
 Address State
 Purpose
@@ -50,7 +51,7 @@ Debt-to-Income Ratio (DTI)
 Verification Status
 Last Payment Date
 
-Key Insights & Business Value
+📋Key Insights & Business Value
 Enables performance tracking of loan portfolios through dynamic KPIs.
 Supports risk identification using borrower financial indicators such as DTI and interest rates.
 Improves regional and demographic analysis of lending behavior.
